@@ -41,9 +41,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(i);
             }
-
-            Console.ReadLine();
-
         }
     }
 }
